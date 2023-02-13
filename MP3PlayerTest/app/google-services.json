@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "411249271035",
+    "firebase_url": "https://musicplayertest-22def.firebaseio.com",
+    "project_id": "musicplayertest-22def",
+    "storage_bucket": "musicplayertest-22def.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411249271035:android:497c823837ae175881d05e",
+        "android_client_info": {
+          "package_name": "com.ongel.mp3playertest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411249271035-4lfst9ogpk8qkqt75u25hbkvnv4ovj9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSXueG3MdCF9_wuxrowI_IZQsOIMiHl28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411249271035-4lfst9ogpk8qkqt75u25hbkvnv4ovj9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
